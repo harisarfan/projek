@@ -1,0 +1,16 @@
+122410101099/12345	diklat		2
+122410101085/admini	admin		1
+122410101086/admini	unit kerja	3
+122410101087/12345	bu mafulla 	5
+
+
+
+lala@gmail.com/582aa	user	4
+lili@gmail.com/3c863	user	4
+lulu@gmail.com/4bfce	user	4
+
+status -1 = draft
+status 1 = baru di ajukan / menunggu
+status 0 = ditolak/.......re./sd
+status 2 = diterima
+
